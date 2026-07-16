@@ -25,8 +25,11 @@ Analyze sales performance across outlet types, item categories, locations, and c
 
 Blinkit Grocery Sales Dataset
 
+<a href ="https://github.com/Premprakashmaurya/Blinkit-Excel-Sales-Dashboard/blob/main/Blinkit_Grocery_Dataset.xlsx">Dataset View </a>
+
 ## Dashboard Features
 
+<a href ="https://github.com/Premprakashmaurya/Blinkit-Excel-Sales-Dashboard/blob/main/Screenshots/01_Final_Dashboard.png">Dashboard_view </a>
 - Total Sales
 - Average Sales
 - Customer Ratings

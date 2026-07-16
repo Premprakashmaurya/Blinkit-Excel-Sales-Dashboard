@@ -29,7 +29,8 @@ Blinkit Grocery Sales Dataset
 
 ## Dashboard Features
 
-<a href ="https://github.com/Premprakashmaurya/Blinkit-Excel-Sales-Dashboard/blob/main/Screenshots/01_Final_Dashboard.png">Dashboard_view </a>
+<a href =" https://github.com/Premprakashmaurya/Blinkit-Excel-Sales-Dashboard/blob/main/Blinkit_Excel_Dashboard.xlsx">Dashboard_view </a>
+
 - Total Sales
 - Average Sales
 - Customer Ratings
@@ -37,6 +38,9 @@ Blinkit Grocery Sales Dataset
 - Outlet Analysis
 - Interactive Filters (Slicers)
 - KPI Cards
+
+<img width="1526" height="772" alt="01_Final_Dashboard" src="https://github.com/user-attachments/assets/304b11ab-3d24-441e-8dd3-4777f7ff9836" />
+
 
 ## Tools Used
 
